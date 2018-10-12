@@ -36,8 +36,6 @@
                 </a>
             </center>
         </div>
-    </body>
-
-
+    </body>    
 
 </html>
