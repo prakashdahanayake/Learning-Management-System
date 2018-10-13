@@ -1,6 +1,5 @@
 <?php require_once('inc/connection.php') ?>
 
-
 <?php 
 
     if(isset($_POST['submit'])){
